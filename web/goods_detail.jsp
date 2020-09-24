@@ -79,7 +79,7 @@
                     <div class="row">
                         <div class="col-md-6 col-sm-6">
                             <div class="product-main-image">
-                                <img src="assets/pages/img/products/model7.jpg" alt="Cool green dress with red bell" class="img-responsive" data-BigImgsrc="assets/pages/img/products/model7.jpg">
+                                <img src="assets/pages/img/products/p11.jpg" alt="Cool green dress with red bell" class="img-responsive" data-BigImgsrc="assets/pages/img/products/p11.jpg">
                             </div>
                         <%--    <div class="product-other-images">
                                 <a href="assets/pages/img/products/model3.jpg" class="fancybox-button" rel="photos-lib"><img alt="Berry Lace Dress" src="assets/pages/img/products/model3.jpg"></a>
@@ -88,23 +88,22 @@
                             </div>--%>
                         </div>
                         <div class="col-md-6 col-sm-6">
-                            <h1>Cool green dress with red bell</h1>
+                            <h1>法式高腰婚纱</h1>
                             <div class="price-availability-block clearfix">
                                 <div class="price">
-                                    <strong><span>$</span>47.00</strong>
-                                    <em>$<span>62.00</span></em>
+                                    <strong><span>￥</span>477.00</strong>
+                                    <em>￥<span>622.00</span></em>
                                 </div>
                                 <div class="availability">
-                                    Availability: <strong>In Stock</strong>
+                                    库存: <strong>有货</strong>
                                 </div>
                             </div>
                             <div class="description">
-                                <p>Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed nonumy nibh sed euismod laoreet dolore magna aliquarm erat volutpat
-                                    Nostrud duis molestie at dolore.</p>
+<%--                                <p>自带裙撑，里层充满亮片点缀，在视觉上最大程度延伸颈脖，也展现出新娘完美的锁骨，让新娘成为最瞩目的存在</p>--%>
                             </div>
                             <div class="product-page-options">
                                 <div class="pull-left">
-                                    <label class="control-label">Size:</label>
+                                    <label class="control-label">大小:</label>
                                     <select class="form-control input-sm">
                                         <option>L</option>
                                         <option>M</option>
@@ -112,11 +111,11 @@
                                     </select>
                                 </div>
                                 <div class="pull-left">
-                                    <label class="control-label">Color:</label>
+                                    <label class="control-label">颜色:</label>
                                     <select class="form-control input-sm">
-                                        <option>Red</option>
-                                        <option>Blue</option>
-                                        <option>Black</option>
+                                        <option>白色</option>
+                                        <option>灰色</option>
+                                        <option>米色</option>
                                     </select>
                                 </div>
                             </div>
@@ -124,27 +123,27 @@
                                 <div class="product-quantity">
                                     <input id="product-quantity" type="text" value="1" readonly class="form-control input-sm">
                                 </div>
-                                <button class="btn btn-primary" type="submit">Add to cart</button>
+                                <button class="btn btn-primary" type="submit">加入购物车</button>
                             </div>
 
                             <ul class="social-icons">
-                                <li><a class="facebook" data-original-title="facebook" href="javascript:;"></a></li>
-                                <li><a class="twitter" data-original-title="twitter" href="javascript:;"></a></li>
-                                <li><a class="googleplus" data-original-title="googleplus" href="javascript:;"></a></li>
-                                <li><a class="evernote" data-original-title="evernote" href="javascript:;"></a></li>
-                                <li><a class="tumblr" data-original-title="tumblr" href="javascript:;"></a></li>
+<%--                                <li><a class="facebook" data-original-title="facebook" href="javascript:;"></a></li>--%>
+<%--                                <li><a class="twitter" data-original-title="twitter" href="javascript:;"></a></li>--%>
+<%--                                <li><a class="googleplus" data-original-title="googleplus" href="javascript:;"></a></li>--%>
+<%--                                <li><a class="evernote" data-original-title="evernote" href="javascript:;"></a></li>--%>
+<%--                                <li><a class="tumblr" data-original-title="tumblr" href="javascript:;"></a></li>--%>
                             </ul>
                         </div>
 
                         <div class="product-page-content">
                             <ul id="myTab" class="nav nav-tabs">
-                                <li><a href="#Description" data-toggle="tab">Description</a></li>
-                                <li><a href="#Information" data-toggle="tab">Information</a></li>
-                                <li class="active"><a href="#Reviews" data-toggle="tab">Reviews (2)</a></li>
+                                <li class="active"><a href="#Description" data-toggle="tab">描述</a></li>
+<%--                                <li><a href="#Information" data-toggle="tab">Information</a></li>--%>
+<%--                                <li><a href="#Reviews" data-toggle="tab">Reviews (2)</a></li>--%>
                             </ul>
                             <div id="myTabContent" class="tab-content">
-                                <div class="tab-pane fade" id="Description">
-                                    <p>Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed sit nonumy nibh sed euismod laoreet dolore magna aliquarm erat sit volutpat Nostrud duis molestie at dolore. Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed sit nonumy nibh sed euismod laoreet dolore magna aliquarm erat sit volutpat Nostrud duis molestie at dolore. Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed sit nonumy nibh sed euismod laoreet dolore magna aliquarm erat sit volutpat Nostrud duis molestie at dolore. </p>
+                                <div class="tab-pane fade in active" id="Description">
+                                    <p>自带裙撑，里层充满亮片点缀，在视觉上最大程度延伸颈脖，也展现出新娘完美的锁骨，让新娘成为最瞩目的存在 </p>
                                 </div>
                                 <div class="tab-pane fade" id="Information">
                                     <table class="datasheet">
@@ -173,7 +172,7 @@
                                         </tr>
                                     </table>
                                 </div>
-                                <div class="tab-pane fade in active" id="Reviews">
+                                <div class="tab-pane fade" id="Reviews">
                                     <!--<p>There are no reviews for this product.</p>-->
                                     <div class="review-item clearfix">
                                         <div class="review-item-submitted">

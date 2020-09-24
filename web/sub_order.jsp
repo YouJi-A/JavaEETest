@@ -97,15 +97,15 @@
     <div class="main">
     <div class="container">
         <ul class="breadcrumb">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="">Store</a></li>
-            <li class="active">Checkout</li>
+            <li><a href="index.html">首页</a></li>
+            <li><a href="">商店</a></li>
+            <li class="active">结账</li>
         </ul>
         <!-- BEGIN SIDEBAR & CONTENT -->
         <div class="row margin-bottom-40">
             <!-- BEGIN CONTENT -->
             <div class="col-md-12 col-sm-12">
-                <h1>Checkout</h1>
+                <h1>结账</h1>
                 <!-- BEGIN CHECKOUT PAGE -->
                 <div class="panel-group checkout-page accordion scrollable" id="checkout-page">
 
@@ -119,70 +119,70 @@
                                     </div>
                                     <table>
                                         <tr>
-                                            <th class="checkout-image">Image</th>
-                                            <th class="checkout-description">Description</th>
-                                            <th class="checkout-model">Model</th>
-                                            <th class="checkout-quantity">Quantity</th>
-                                            <th class="checkout-price">Price</th>
-                                            <th class="checkout-total">Total</th>
+                                            <th class="checkout-image">图片</th>
+                                            <th class="checkout-description">描述</th>
+<%--                                            <th class="checkout-model">Model</th>--%>
+                                            <th class="checkout-quantity">数量</th>
+                                            <th class="checkout-price">价格</th>
+                                            <th class="checkout-total">总价</th>
                                         </tr>
                                         <tr>
                                             <td class="checkout-image">
-                                                <a href="javascript:;"><img src="assets/pages/img/products/model3.jpg" alt="Berry Lace Dress"></a>
+                                                <a href="javascript:;"><img src="assets/pages/img/products/p11.jpg" alt="Berry Lace Dress"></a>
                                             </td>
                                             <td class="checkout-description">
-                                                <h3><a href="javascript:;">Cool green dress with red bell</a></h3>
-                                                <p><strong>Item 1</strong> - Color: Green; Size: S</p>
-                                                <em>More info is here</em>
+                                                <h3><a href="javascript:;">法式高腰婚纱</a></h3>
+                                                <p>- 颜色: 白色; 大小: L</p>
+                                                <em>更多信息</em>
                                             </td>
-                                            <td class="checkout-model">RES.193</td>
+<%--                                            <td class="checkout-model">RES.193</td>--%>
                                             <td class="checkout-quantity">1</td>
-                                            <td class="checkout-price"><strong><span>$</span>47.00</strong></td>
-                                            <td class="checkout-total"><strong><span>$</span>47.00</strong></td>
+                                            <td class="checkout-price"><strong><span>￥</span>477.00</strong></td>
+                                            <td class="checkout-total"><strong><span>￥</span>477.00</strong></td>
                                         </tr>
                                         <tr>
                                             <td class="checkout-image">
-                                                <a href="javascript:;"><img src="assets/pages/img/products/model4.jpg" alt="Berry Lace Dress"></a>
+                                                <a href="javascript:;"><img src="assets/pages/img/products/p12.jpg" alt="Berry Lace Dress"></a>
                                             </td>
                                             <td class="checkout-description">
-                                                <h3><a href="javascript:;">Cool green dress with red bell</a></h3>
-                                                <p><strong>Item 1</strong> - Color: Green; Size: S</p>
-                                                <em>More info is here</em>
+                                                <h3><a href="javascript:;">森系超仙简约婚纱</a></h3>
+                                                <p>- 颜色: 米色; 大小: L</p>
+                                                <em>更多信息</em>
                                             </td>
-                                            <td class="checkout-model">RES.193</td>
+<%--                                            <td class="checkout-model">RES.193</td>--%>
                                             <td class="checkout-quantity">1</td>
-                                            <td class="checkout-price"><strong><span>$</span>47.00</strong></td>
-                                            <td class="checkout-total"><strong><span>$</span>47.00</strong></td>
+                                            <td class="checkout-price"><strong><span>￥</span>477.00</strong></td>
+                                            <td class="checkout-total"><strong><span>￥</span>477.00</strong></td>
                                         </tr>
                                     </table>
                                 </div>
                                 <div class="checkout-total-block">
                                     <ul>
-                                        <li>
-                                            <em>Sub total</em>
-                                            <strong class="price"><span>$</span>47.00</strong>
-                                        </li>
-                                        <li>
-                                            <em>Shipping cost</em>
-                                            <strong class="price"><span>$</span>3.00</strong>
-                                        </li>
-                                        <li>
-                                            <em>Eco Tax (-2.00)</em>
-                                            <strong class="price"><span>$</span>3.00</strong>
-                                        </li>
-                                        <li>
-                                            <em>VAT (17.5%)</em>
-                                            <strong class="price"><span>$</span>3.00</strong>
-                                        </li>
+<%--                                        <li>--%>
+<%--                                            <em>Sub total</em>--%>
+<%--                                            <strong class="price"><span>$</span>47.00</strong>--%>
+<%--                                        </li>--%>
+<%--                                        <li>--%>
+<%--                                            <em>Shipping cost</em>--%>
+<%--                                            <strong class="price"><span>$</span>3.00</strong>--%>
+<%--                                        </li>--%>
+<%--                                        <li>--%>
+<%--                                            <em>Eco Tax (-2.00)</em>--%>
+<%--                                            <strong class="price"><span>$</span>3.00</strong>--%>
+<%--                                        </li>--%>
+<%--                                        <li>--%>
+<%--                                            <em>VAT (17.5%)</em>--%>
+<%--                                            <strong class="price"><span>$</span>3.00</strong>--%>
+<%--                                        </li>--%>
                                         <li class="checkout-total-price">
-                                            <em>Total</em>
-                                            <strong class="price"><span>$</span>56.00</strong>
+                                            <em>总价</em>
+                                            <strong class="price"><span>￥</span>954.00</strong>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="clearfix"></div>
-                                <button class="btn btn-primary pull-right" type="submit" id="button-confirm">Confirm Order</button>
-                                <button type="button" class="btn btn-default pull-right margin-right-20">Cancel</button>
+                                <button class="btn btn-primary pull-right" type="submit" id="button-confirm">确认订单</button>
+                                <button type="button" class="btn btn-default pull-right margin-right-20">取消</button>
                             </div>
                         </div>
                     </div>
